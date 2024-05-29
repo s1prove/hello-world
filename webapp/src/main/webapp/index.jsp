@@ -2,6 +2,7 @@
   <div class="container">
     <h1>Testing CI workflow</h1>
     <p>Please fill in this form to create an account.</p>
+    <p>Poll SCM.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
