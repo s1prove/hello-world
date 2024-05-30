@@ -3,7 +3,7 @@
     <h1>Testing CI workflow</h1>
     <p>Please fill in this form to create an account.</p>
     <p>Poll SCM.</p>
-    <p>Test with ansible.</p>
+    <p>Test with ansible, second try.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
