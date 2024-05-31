@@ -3,7 +3,7 @@
     <h1>Testing CI workflow</h1>
     <p>Please fill in this form to create an account.</p>
     <p>Poll SCM.</p>
-    <p>Full CI/CD, day2-2nd try</p>
+    <p>Full CI/CD, day2-3nd try</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
