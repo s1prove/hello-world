@@ -2,7 +2,7 @@
   <div class="container">
     <h1>Testing CI workflow</h1>
     <p>Please fill in this form to create an account.</p>
-    <p>FULL CI_CD with ans and docker 2.</p>
+    <p>CI for k8s.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
